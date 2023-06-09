@@ -6,7 +6,7 @@ $phone = $_POST['Phone'];
 $message = $_POST['Message'];
 
 // Configura los datos del correo electrónico
-$to = 'nicolas.gozman02@gmail.com'; 
+$to = 'iriartetomi5@gmail.com'; 
 $subject = 'Mensaje de contacto';
 $body = "Nombre: $name\nCorreo electrónico: $email\nTeléfono: $phone\n\nMensaje:\n$message";
 
